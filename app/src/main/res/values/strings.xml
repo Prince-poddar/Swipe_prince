@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swipe</string>
+    <string name="add_product">Add Product</string>
+
+    <string-array name="product_type">
+        <item>Service</item>
+        <item>Product</item>
+    </string-array>
+</resources>
